@@ -2,7 +2,7 @@ name: Tamil Song Downloader and Trimmer
 
 on:
   schedule:
-    - cron: '30 11 * * *'  # Runs daily at 11:25 AM UTC (4:55 PM IST)
+    - cron: '30 11 * * *'  # Runs daily at 4:55 PM IST (11:30 AM UTC)
   workflow_dispatch:
 
 jobs:
@@ -25,10 +25,15 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
+      - name: Save cookies
+        run: echo "${{ secrets.YT_COOKIES }}" > cookies.txt
+
       - name: Download Tamil Trending Songs
         run: |
           mkdir -p songs
-          yt-dlp -x --audio-format mp3 --embed-metadata --output "songs/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-"
+          yt-dlp --cookies cookies.txt -x --audio-format mp3 --embed-metadata \
+            --output "songs/%(playlist_index)s - %(title)s.%(ext)s" \
+            "https://www.youtube.com/playlist?list=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-"
 
       - name: Trim Songs to Fit 1.5GB
         run: |
