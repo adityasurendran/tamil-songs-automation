@@ -33,7 +33,7 @@ jobs:
           mkdir -p songs
           yt-dlp --cookies cookies.txt -x --audio-format mp3 --embed-metadata \
             --output "songs/%(playlist_index)s - %(title)s.%(ext)s" \
-            "https://www.youtube.com/playlist?list=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-"
+            "https://www.youtube.com/playlist?list=OLAK5uy_lSTp1DIuzZBUyee3kDsXwPgP25WdfwB40"
 
       - name: Trim Songs to Fit 1.5GB
         run: |
