@@ -6,6 +6,7 @@ songs/01 - Meesaala Pilla Promo ｜ Mana Shankara Varaprasad Garu ｜ Chiranjeev
 songs/01 - Namit Malhotra's Ramayana： The Introduction ｜ Nitesh Tiwari ｜ Ranbir, Yash, Hans Zimmer & AR Rahman.mp3
 songs/01 - Tum Mere Na Huye (Video) Thamma ｜ Ayushmann K, Rashmika M ｜ Sachin-Jigar, Madhubanti B, Amitabh B.mp3
 songs/01 - Vetri Maaran’s Arasan official promo video (Tamil) ｜ Silambarasan TR ｜ Anirudh ｜ Kalaippuli S Thanu.mp3
+songs/01 - Vetri Maaran’s Arasan-Official Promo Video (Tamil) ｜ Silambarasan TR ｜ Anirudh ｜ Kalaippuli S Thanu.mp3
 songs/02 - BLACKPINK - ‘뛰어(JUMP)’ M⧸V.mp3
 songs/02 - Dilbar Ki Aankhon Ka ｜ Thamma ｜ Nora F, Ayushmann K, Rashmika M ｜Sachin-Jigar, Rashmeet K, Amitabh B.mp3
 songs/02 - GURU RANDHAWA - PAN INDIA - MV - BHUSHAN KUMAR.mp3
@@ -56,10 +57,12 @@ songs/06 - Mayabini Ratir Bukut.mp3
 songs/06 - Onde Ondu Sala - Lyrical ｜ The Devil ｜ Darshan, Rachana Rai ｜ Prakash Veer ｜ B Ajaneesh Loknath.mp3
 songs/06 - Poyiraa Mama Full Video Song ｜ Kuberaa ｜ Dhanush, Nagarjuna, Rashmika ｜ Sekhar Kammula ｜ DSP.mp3
 songs/06 - Top Non Stop Live Rasiya ｜ एक से हटकर एक ｜ Full HD Video #live.mp3
+songs/06 - #Funny Song ｜ दिलवा डोले थोड़े थोड़े ｜ #Ankush Raja, #Karishma Kakkar ｜ खानदान उजाड़ देम ｜ New Song.mp3
 songs/06 - #Video ~ चोरी चोरी मिलबऊ ऐ गोरी ｜ Milbau Chori Chori Tohra Se Gori ｜ Pankaj Matalbi Yadav & Anjali.mp3
 songs/06 - #Video - #Khesari Lal Yadav - लाल घघरी - #Shilpi Raj - Lal Ghaghri  - #Akanksha Puri - Bhojpuri Song.mp3
 songs/07 - 4 चुम्मा लिया !! #Rakesh Raj !! 4 Chumma Liya !! #Gunjan Sinha !! #Maghi New Song.mp3
 songs/07 - Full Video ｜ आहे आदितमल ｜ #Karina Pandey ｜ #Sovita Pandey ｜ Aahe Aaditmal ｜ Chhath Special Song 2025.mp3
+songs/07 - GURU RANDHAWA - PAN INDIA - MV - BHUSHAN KUMAR.mp3
 songs/07 - Gaane Gaane ｜ গানে গানে ｜ Dhumketu ｜ Dev ｜ Subhashree ｜ Arijit Singh ｜ Shreya Ghoshal ｜ Anupam Roy.mp3
 songs/07 - Karva Chauth Pe Upasi ｜ Official Video ｜ Nili Pili Chudi le ｜ Anil Rawat ｜ Farmani ｜ bhai giri Music.mp3
 songs/07 - Mayabini Ratir Bukut.mp3
@@ -70,6 +73,7 @@ songs/07 - #Video - #Raushan Rohi मगही गीत - तू है 300 व
 songs/07 - #Video ｜ आहे मालिन ｜ Aahe Maalin ｜ #Beauty Pandey ｜ Navratri Song 2025.mp3
 songs/07 - ಎಷ್ಟು ಹೇಳಿದರೂ ಕೇಳಲಿಲ್ಲ ಗೆಳತಿ ಗೆಳತಿ ｜ Yesta Helidru Kelalila Gelati Gelati ｜ Balu Belagundi ｜Janapada.mp3
 songs/08 - BATORE HEKHOTE - Zubeen Garg ｜ Jayanta Kakati ｜ Bijit ｜ Dipkesh Borgohain.mp3
+songs/08 - Dhurandhar - Title Track ｜ Ranveer Singh, Shashwat Sachdev, Hanumankind, Jasmine Sandlas,Aditya Dhar.mp3
 songs/08 - Full Video ｜ आहे आदितमल ｜ #Karina Pandey ｜ #Sovita Pandey ｜ Aahe Aaditmal ｜ Chhath Special Song 2025.mp3
 songs/08 - Lugai Chhoti (Official Video) Ajay Hooda, Kavita Joshi ｜ New Haryanvi Songs Haryanavi 2025 ｜ DJ Song.mp3
 songs/08 - MAFIA (Official Music Video) ｜ 51 GLORIOUS DAYS ｜ @YoYoHoneySingh ｜ Nargis Fakhri ｜ Bhushan Kumar.mp3
@@ -110,6 +114,7 @@ songs/11 - BATORE HEKHOTE - Zubeen Garg ｜ Jayanta Kakati ｜ Bijit ｜ Dipkesh
 songs/11 - BLACKPINK - ‘뛰어(JUMP)’ M⧸V.mp3
 songs/11 - Bas Ek Dhadak ｜ Dhadak 2 ｜Siddhant C,Triptii D｜Shreya Ghoshal, Jubin Nautiyal Javed-Mohsin, Rashmi V.mp3
 songs/11 - Chole Bhature छोले भटूरे ( Official Video ) Diler Kharkiya ｜ Anjali raghav ｜ New Haryanvi Song 2025.mp3
+songs/11 - DIL DIL DIL - Ek Deewane Ki Deewaniyat ｜ Harshvardhan & Sonam ｜ Sunidhi ｜ Divya ｜ Rajat ｜ Anu.mp3
 songs/11 - Karva Chauth Pe Upasi ｜ Official Video ｜ Nili Pili Chudi le ｜ Anil Rawat ｜ Farmani ｜ bhai giri Music.mp3
 songs/11 - Mur Mon (Roi Roi Binale).mp3
 songs/11 - Poison Baby ｜ Thamma ｜ Malaika A, Ayushmann K, Rashmika M ｜ Sachin-Jigar,Jasmine S, Divya, Amitabh B.mp3
@@ -133,6 +138,7 @@ songs/12 - #Video चोरी चोरी मिलबउ मेलवा म�
 songs/12 - #Video ｜ आहे मालिन ｜ Aahe Maalin ｜ #Beauty Pandey ｜ Navratri Song 2025.mp3
 songs/12 - नवरात्रि विशेष आरती： जय अम्बे गौरी Jai Ambe Gauri Aarti,🙏Durga Ji Aarti🙏,ANURADHA PAUDWAL,Devi Aarti.mp3
 songs/12 - बिगड़ल सजनवा ｜ Bigadal Sajanwa ｜ Parul Mahi ft. Viral Tannu Gorakhpuriya ｜ नया भोजपुरी सांग 2025.mp3
+songs/12 - ಎಷ್ಟು ಹೇಳಿದರೂ ಕೇಳಲಿಲ್ಲ ಗೆಳತಿ ಗೆಳತಿ ｜ Yesta Helidru Kelalila Gelati Gelati ｜ Balu Belagundi ｜Janapada.mp3
 songs/13 - 4 चुम्मा लिया !! #Rakesh Raj !! 4 Chumma Liya !! #Gunjan Sinha !! #Maghi New Song.mp3
 songs/13 - Full Video ｜ आहे आदितमल ｜ #Karina Pandey ｜ #Sovita Pandey ｜ Aahe Aaditmal ｜ Chhath Special Song 2025.mp3
 songs/13 - Hamnava Mere.mp3
@@ -160,6 +166,7 @@ songs/14 - SON OF SARDAAR 2 ｜ THE PO PO SONG ｜ Ajay Devgn ｜ Mrunal Thakur 
 songs/14 - Supari (Official Audio) Cheema Y ｜ Gur Sidhu.mp3
 songs/14 - The Ba＊＊＊ds Of Bollywood： Ghafoor (Song) ｜ Aryan K ｜ Shashwat, Shilpa, Ujwal ｜ Tamannaah, Farah Khan.mp3
 songs/14 - Tum Mere Na Huye (Video) Thamma ｜ Ayushmann K, Rashmika M ｜ Sachin-Jigar, Madhubanti B, Amitabh B.mp3
+songs/14 - #VIDEO   #Pawan Singh   भोरे चल जईबा राजा   #Shilpi Raj   Dhaniya Me Paniya   Bhojpuri Song.mp3
 songs/14 - #Video - #Raushan Rohi मगही गीत - तू है 300 वाली - #Srishti Bharti - #Shivani - #Maghi New Song.mp3
 songs/14 - #Video - फोटवा जनवा लेतौ ｜ #Ashish Yadav का एक और #मगही दर्द भरा गीत ｜ New #Magahi Sad Song 2025.mp3
 songs/14 - #Video ｜ आहे मालिन ｜ Aahe Maalin ｜ #Beauty Pandey ｜ Navratri Song 2025.mp3
@@ -175,6 +182,7 @@ songs/15 - Mur Mon (Roi Roi Binale).mp3
 songs/15 - Payal Chandi KI ｜ Saman Aagya Bhole Hori ｜ Gulshan Music ｜ Jaat Nia ｜ New Haryanvi Bhole Song 2025.mp3
 songs/15 - Premalo -  8K Video ｜ Court ｜ Priyadarshi, Harsh Roshan, Sridevi ｜ Vijai Bulganin ｜ Ram Jagadeesh.mp3
 songs/15 - Ranjhea (Official Audio) Cheema Y ｜ Gur Sidhu.mp3
+songs/15 - Supari (Official Audio) Cheema Y ｜ Gur Sidhu.mp3
 songs/15 - Taylor Swift - The Fate of Ophelia (Official Music Video).mp3
 songs/15 - #Video - #Khesari Lal Yadav - गजब तोहार नैना - #Shilpi Raj - Gajab Tohar Naina - Bhojpuri Song -2025.mp3
 songs/15 - #Video चोरी चोरी मिलबउ मेलवा में गोरी #Pankaj Matalbi Yadav ｜ #Devi Geet Song Bhojpuri 2025.mp3
@@ -188,6 +196,7 @@ songs/16 - Dhurandhar - Title Track ｜ Ranveer Singh, Shashwat Sachdev, Hanuman
 songs/16 - Kiss Kiss Bang Bang - They Call Him OG ｜ Pawan Kalyan ｜ EmraanHashmi ｜ NehaShetty ｜Sujeeth ｜ ThamanS.mp3
 songs/16 - Mur Mon (Roi Roi Binale).mp3
 songs/16 - Payal Chandi KI ｜ Saman Aagya Bhole Hori ｜ Gulshan Music ｜ Jaat Nia ｜ New Haryanvi Bhole Song 2025.mp3
+songs/16 - Ranjhea (Official Audio) Cheema Y ｜ Gur Sidhu.mp3
 songs/16 - SON OF SARDAAR 2 ｜ Pehla Tu Duja Tu (Song) ｜ Ajay Devgn ｜ Mrunal Thakur ｜ Vishal Mishra ｜ Jaani.mp3
 songs/16 - Singari Lyrical Song ｜ Dude ｜ Pradeep Ranganathan, Mamitha Baiju ｜ @SaiAbhyankkar  ｜ Keerthiswaran.mp3
 songs/16 - Taylor Swift - The Fate of Ophelia (Official Music Video).mp3
@@ -197,6 +206,7 @@ songs/16 - #Video - बघवा आईल बा - #Tuntun Yadav ｜ Goldi Yada
 songs/16 - नवरात्रि विशेष आरती： जय अम्बे गौरी Jai Ambe Gauri Aarti,🙏Durga Ji Aarti🙏,ANURADHA PAUDWAL,Devi Aarti.mp3
 songs/17 - Aap Ki Kashish - Full Video Song ｜Aashiq Banaya Aapne ｜ Himesh Reshammiya ｜ Emraan Hashmi,Tanushree.mp3
 songs/17 - Bucks & Fame (Official Audio) Cheema Y ｜ Gur Sidhu.mp3
+songs/17 - Enjaami Thandhaane - Video Song ｜ Idli Kadai ｜ Dhanush, Nithya Menen ｜ GV Prakash Kumar ｜ Arivu.mp3
 songs/17 - Full Video ｜ मईया बारी सुकवार ｜ #Karina Pandey ｜ #Sovita Pandey ｜ Maiya Bari Sukwar ｜ Navratri Song.mp3
 songs/17 - Kahinki Bhala Paibi Il Prem Darshan & Ananya Parida ll Humane Sagar ll Odia Sad Song ll HelpBoyTusar.mp3
 songs/17 - Lai Ja Ne Lerida - 4K Video - Gopal Bharwad - Manisha Bharwad - લઈ જા ને લેરીડા - Jigar Studio.mp3
@@ -234,6 +244,7 @@ songs/19 - Payal Ki Khanak ｜ Official Video ｜ Hindi New Song ｜ Anil Rawat 
 songs/19 - SITTI SILAKA FULL SONG ｜ NEW TELUGU FOLK SONG 2025 ｜ SAI ADHIT ｜ 2025 FOLK SONG ｜ SAI FOLKS.mp3
 songs/19 - SON OF SARDAAR 2 ｜ Nachdi (Song) ｜ Ajay Devgn ｜ Mrunal Thakur ｜ Neha Kakkar.mp3
 songs/19 - Singari Lyrical Song ｜ Dude ｜ Pradeep Ranganathan, Mamitha Baiju ｜ @SaiAbhyankkar  ｜ Keerthiswaran.mp3
+songs/19 - Xopun Xopun (From ＂Roi Roi Binale＂).mp3
 songs/19 - #Video - #Khesari Lal Yadav - लाल घघरी - #Shilpi Raj - Lal Ghaghri  - #Akanksha Puri - Bhojpuri Song.mp3
 songs/19 - #Video ｜ आहे मालिन ｜ Aahe Maalin ｜ #Beauty Pandey ｜ Navratri Song 2025.mp3
 songs/20 - Aap Ki Kashish - Full Video Song ｜Aashiq Banaya Aapne ｜ Himesh Reshammiya ｜ Emraan Hashmi,Tanushree.mp3
@@ -241,6 +252,7 @@ songs/20 - Affair ｜ Maalik ｜ Rajkummar Rao, Manushi Chhillar ｜Khesari Lal 
 songs/20 - CIRCLE (Official Video) Amanraj Gill ｜ Manisha Sharma, Shivani Yadav ｜ New Haryanvi Song 2025.mp3
 songs/20 - Kahinki Bhala Paibi Il Prem Darshan & Ananya Parida ll Humane Sagar ll Odia Sad Song ll HelpBoyTusar.mp3
 songs/20 - Lugai Chhoti (Official Video) Ajay Hooda, Kavita Joshi ｜ New Haryanvi Songs Haryanavi 2025 ｜ DJ Song.mp3
+songs/20 - Mayabini Ratir Bukut.mp3
 songs/20 - Poyivaa Nanba Full Video Song ｜ Kuberaa ｜ Dhanush, Nagarjuna, Rashmika ｜ Sekhar Kammula ｜ DSP.mp3
 songs/20 - SITTI SILAKA FULL SONG ｜ NEW TELUGU FOLK SONG 2025 ｜ SAI ADHIT ｜ 2025 FOLK SONG ｜ SAI FOLKS.mp3
 songs/20 - Sundari (Official Video) Sanju Rathod Ft. Yashika Jatav ｜ G-Spark ｜ Marathi Song 2025.mp3
